@@ -729,7 +729,7 @@ const onDownload = useCallback(() => {
       </div>
     <div style={{marginTop:10, }}>
       <span style={{color: '#222222', }}>typology-card-maker v0.0.1 </span>
-      <a href="https://github.com/your-repo" 
+      <a href="https://github.com/alekseypoyarkin/typology-card-maker" 
          style={{ color: '#264c75ff', textDecoration: 'none' }} 
          target="_blank" 
          rel="noopener noreferrer">
